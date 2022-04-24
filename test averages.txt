@@ -1,0 +1,20 @@
+singlethreaded performance:
+Total amount of words: 1900
+Average word length: 8
+Total elapsed time: 18 milliseconds
+
+Multithreaded 1 performance:
+Total amount of words: 1900
+Average word length: 8
+Total elapsed time: 99 milliseconds
+
+singlethreaded performance:
+Total amount of words: 5000
+Average word length: 8
+Total elapsed time:  30 milliseconds
+
+Multithreaded 1 performance:
+Total amount of words: 5000
+Average word length: 8
+Total elapsed time:  121 milliseconds
+
